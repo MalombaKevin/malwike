@@ -1,0 +1,27 @@
+
+body
+{
+
+padding-top: 2em;
+padding-left: 0.5em;
+width: 50%;
+
+    
+}
+
+.logo{
+
+border-radius: 50%;
+width: 8em;
+
+}
+
+main
+{
+   align-items: center;
+}
+
+span
+{
+    letter-spacing: 1px;
+}

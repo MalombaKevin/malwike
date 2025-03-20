@@ -1,0 +1,14 @@
+body
+
+{
+   display: flex; 
+
+   justify-content: space-around;
+}
+
+main
+{
+    background-color: black;
+    width: 60%;
+  
+ }
