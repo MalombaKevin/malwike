@@ -3,8 +3,8 @@ body
 {
 
 padding-top: 2em;
-padding-left: 0.5em;
-width: 50%;
+/* margin-left: 2.5em; */
+width: 120%;
 
     
 }
@@ -16,12 +16,18 @@ width: 8em;
 
 }
 
-main
+main, footer
 {
    align-items: center;
+   margin-left: 2.5em;
 }
 
 span
 {
     letter-spacing: 1px;
 }
+
+/* .company-name
+{
+    padding-right: 5em;
+} */

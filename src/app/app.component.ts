@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { NgxTypedJsModule } from 'ngx-typed-js'
 
 
 @Component({
